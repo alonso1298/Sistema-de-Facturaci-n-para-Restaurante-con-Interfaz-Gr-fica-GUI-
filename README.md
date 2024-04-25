@@ -1,4 +1,4 @@
-# Sistema de Facturacion para Restaurante con Interfaz Grafica (GUI)
+# Sistema de Facturación para Restaurante con Interfaz Grafica (GUI)
 Este proyecto consiste en un sistema de facturación para un restaurante implementado en Python utilizando la biblioteca Tkinter para la interfaz gráfica. El sistema permite a los usuarios seleccionar diferentes alimentos, bebidas y postres, ingresar las cantidades deseadas y generar una factura detallada.
 ## Características Principales:
 1. **Interfaz Gráfica Intuitiva:** La aplicación cuenta con una interfaz gráfica fácil de usar que muestra las opciones de comida, bebida y postre en paneles separados para una navegación sencilla.
